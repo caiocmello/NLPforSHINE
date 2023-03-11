@@ -8,7 +8,7 @@ Data Analysis:
 ```
 NewsArticlesStorage
 ├─ Data
-└─ Language (Eg. English)
+└─ Event (Eg. London)
    ├─ Google
    │    ├─ News
    │    │  └─ News outlet (Eg. BBC) 
