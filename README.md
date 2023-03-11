@@ -27,3 +27,21 @@ NewsArticlesStorage
               ├─ full-articles
               └─ olympic-articles          
 ```
+SA
+```
+Sub-DatasetStorage
+├─ Data
+└─ Event (Eg. London)
+   ├─ English
+   │   └─ Brisith News outlet (Eg. BBC) 
+   │      ├─ full-articles
+   │      ├─ olympic-articles   
+   │      └─ curated-articles
+   └─ Portuguese
+       └─ Brazilian News outlet (Eg. Globo) 
+          ├─ full-articles
+          ├─ olympic-articles
+          └─ curated-articles
+
+```
+
