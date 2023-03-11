@@ -6,7 +6,7 @@ Data Analysis:
 2. NLTK for trends BR (excel): https://docs.google.com/spreadsheets/d/1IfFhFSkce0HjBgsX3MQX0JYTfc_PNhXHFcNFmvJEX_s/edit#gid=1372954454
 
 ```
-NewsArticlesCollection
+NewsArticlesStorage
 ├─ Data
 └─ Language (Eg. English)
    ├─ Google
