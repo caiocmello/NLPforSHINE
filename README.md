@@ -6,17 +6,24 @@ Data Analysis:
 2. NLTK for trends BR (excel): https://docs.google.com/spreadsheets/d/1IfFhFSkce0HjBgsX3MQX0JYTfc_PNhXHFcNFmvJEX_s/edit#gid=1372954454
 
 ```
-BigHistDiachEmb
-├─ README.md
-└─ scripts
-   ├─ exploration
-   │    ├─ changepoint_detection.ipynb
-   │    ├─ dynamic_time_warping.ipynb
-   │    └─ visualize_diachronic_emb.ipynb
-   ├─ postprocessing
-   │    └─ merge_errors.py
-   └─ training
-        ├─ config.yaml
-        ├─ train_diach_emb.py
-        └─ utils.py
+NewsArticlesCollection
+├─ Data
+└─ Language (Eg. English)
+   ├─ Google
+   │    ├─ News
+   │    │  └─ News outlet (Eg. BBC) 
+   │    │     ├─ full-articles
+   │    │     └─ olympic-articles
+   │    ├─ Government
+   │    │  └─ Goverment webiste (Eg. UKSport) 
+   │    │     ├─ full-articles
+   │    │     └─ olympic-articles
+   │    └─ Activist
+   │       └─ Activist blog (Eg. Games Monitor) 
+   │          ├─ full-articles
+   │          └─ olympic-articles
+   └─ UKWA
+        └─ Domain (Eg. Guardian)
+              ├─ full-articles
+              └─ olympic-articles          
 ```
